@@ -1,11 +1,11 @@
 {
-    "name": "meme_project",
-    "short_name": "meme_project",
+    "name": "генератор анекдотовt",
+    "short_name": "генератор анекдотов",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Приложение способное вызвать кринж за 0.1 секунду",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
