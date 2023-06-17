@@ -60320,7 +60320,7 @@ s.toString
 return s},
 $S:120}
 A.CY.prototype={
-N(a){return new A.t8(B.Dc,"Flutter Demo",A.afc(null,!0),!1,null)}}
+N(a){return new A.t8(B.Dc,"\u041d\u0435 \u0441\u043c\u0435\u0448\u043d\u044b\u0435 \u0430\u043d\u0435\u043a\u0434\u043e\u0442\u044b",A.afc(null,!0),!1,null)}}
 A.f4.prototype={
 mm(){var s=this
 return B.ad.fB(A.aF(["type",s.a,"setup",s.b,"punchline",s.c,"id",s.d],t.N,t.z))},
