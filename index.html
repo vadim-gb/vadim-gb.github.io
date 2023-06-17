@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html>
+  
 <head>
   <!--
     If you are serving your web app in a path other than the root, change the
@@ -15,6 +16,7 @@
     the `--base-href` argument provided to `flutter build`.
   -->
   <base href="/">
+  
 
   <meta charset="UTF-8">
   <meta content="IE=Edge" http-equiv="X-UA-Compatible">
@@ -42,6 +44,7 @@
 </head>
 <body>
   <script>
+    header("Access-Control-Allow-Origin: *");
     window.addEventListener('load', function(ev) {
       // Download main.dart.js
       _flutter.loader.loadEntrypoint({
